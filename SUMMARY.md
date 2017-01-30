@@ -10,6 +10,7 @@
 
 * [settings](woocommerce/settings.md)
   * [แท็บ general](woocommerce/settings/general.md)
+  * [แท็บ Products](products.md)
 
 ## Products
 
