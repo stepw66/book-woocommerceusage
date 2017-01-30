@@ -2,5 +2,5 @@
 
 * [WooCommerce the Introduction](README.md)
 * [การติดตั้งวูคอมเมิร์ส](chapter1.md)
-* [explorering-woocommerce](explorering-woocommerce.md)
+* [สำรวจวูคอมเมิร์ส](explorering-woocommerce.md)
 
