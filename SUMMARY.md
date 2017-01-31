@@ -9,8 +9,9 @@
 ## WooCommerce
 
 * [settings](woocommerce/settings.md)
-  * [แท็บ general](woocommerce/settings/general.md)
+  * [แท็บ General](woocommerce/settings/general.md)
   * [แท็บ Products](products.md)
+  * [แท็บ Shipping](woocommerce/settings/shpping.md)
 
 ## Products
 
