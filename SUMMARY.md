@@ -12,6 +12,7 @@
   * [แท็บ General](woocommerce/settings/general.md)
   * [แท็บ Products](products.md)
   * [แท็บ Shipping](woocommerce/settings/shpping.md)
+  * [Checkout](woocommerce/settings/checkout.md)
 
 ## Products
 
