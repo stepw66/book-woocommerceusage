@@ -40,11 +40,11 @@ Checkout Options จะเป็นการปรับตั้งค่าก
 
 2. Order Received \(ห้ามแก้ไข\)
 
-3.  Add Payment Method \(ห้ามแก้ไข\)
+3. Add Payment Method \(ห้ามแก้ไข\)
 
-4.  Delete Payment Method \(ห้ามแก้ไข\)
+4. Delete Payment Method \(ห้ามแก้ไข\)
 
-5.  Set Default Payment Method \(ห้ามแก้ไข\)
+5. Set Default Payment Method \(ห้ามแก้ไข\)
 
 -Payment Gateways ตรงนี้แสดงตัวเลือกการจ่ายเงินที่เปิดใช้งานไว้ เราสามารถจับลากเรียงลำดับการแสดงผลที่หน้าลูกค้าจ่ายเงินได้
 
@@ -52,8 +52,6 @@ Checkout Options จะเป็นการปรับตั้งค่าก
 2. ถ้ามีเครื่องหมายถูกแสดงว่าเปิดใช้งาน
 
 ![](/assets/2017-02-02_09-44-42.jpg)
-
-
 
 ### BACS
 
@@ -93,64 +91,97 @@ Swift Code นั่นเป็นรหัสที่ใช้สำหรั
 
 Swift Code: KASITHBK
 
-
-
 ธนาคารกรุงเทพ \(www.bangkokbank.com\)
 
 Swift Code: BKKBTHBK
-
-
 
 ธนาคารไทยพาณิชย์ \(www.scb.co.th\)
 
 Swift Code: SICOTHBK
 
-
-
 ธนาคารสแตนดาร์ดชาร์เตอร์ \(www.standardchartered.co.th\)
 
 Swift Code: SCBLTHBX
-
-
 
 ธนาคารกรุงไทย \(www.ktb.co.th\)
 
 Swift Code: KRTHTHBK
 
-
-
 ธนาคารไทยธนาคาร \(www.bankthai.co.th\)
 
 Swift Code: UBOBTHBK
-
-
 
 ธนาคารกรุงศรีอยุธยา \(www.krungsri.com\)
 
 Swift Code: AYUDTHBK
 
-
-
 ธนาคารนครหลวงไทย \(www.scib.co.th\)
 
 Swift Code: SITYTHBK
-
-
 
 ธนาคารทหารไทย \(www.tmbbank.com\)
 
 Swift Code: TMBKTHB
 
-
-
 ธนาคารยูโอบี \(www.uob.co.th\)
 
 Swift Code: BKASTHBK
 
-  
 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
 
- 
+
+
+### แท็บ Checkout
+
+แท็บ Checkout เป็นแท็บเปิดการใช้งานจ่ายเงินด้วยเช็คธนาคาร
+
+![](/assets/2017-02-02_10-18-20.jpg)
+
+-Enable/Disable ติ๊กเครื่องหมายถูกเพื่อเปิดการใช้งาน
+
+-Title ข้อความที่จะแสดงในหน้าจ่ายเงินให้ลูกค้าเลือก
+
+-Description ข้อความอธิบายเกี่ยวกับการจ่ายเงินโอนเงิน
+
+-Instructions ข้อความอธิบาย หลังการสั่งซื้อแล้วให้ไปทำอะไรต่อ
+
+
+
+### Cash on Delivery
+
+แท็บ Cash on Delivery เป็นแท็บเปิดการใช้งาน จ่ายเงินเมื่อได้รับสินค้า
+
+![](/assets/2017-02-02_10-20-21.jpg)
+
+-Enable Cash on Delivery ติ๊กเครื่องหมายถูกเพื่อเปิดการใช้งาน
+
+-Title ข้อความที่จะแสดงในหน้าจ่ายเงินให้ลูกค้าเลือก
+
+-Description ข้อความอธิบายเกี่ยวกับการจ่ายเงินโอนเงิน
+
+-Instructions ข้อความอธิบาย หลังการสั่งซื้อแล้วให้ไปทำอะไรต่อ
+
+-Enable for shipping methods คลิกเพื่อเลือกว่าจะให้การจ่ายเงิน Cash on Delivery นี้ใช้ได้กับการส่งสินค้าแบบไหนบ้าง 
+
+-Acept COD if the order is virtual ติ๊กเครื่องหมายถูกให้ใช้การจ่ายเงินแบบ Cash on Delivery ได้กับสินค้าที่เป็น Virtual \(สินค้าที่เป็น Virtual คือสินค้าที่เราระบุว่ามันเป็น Virtual ตอนสร้างสินค้า\)
+
+
+
+### แท็บ Paypal
+
+แท็บ Paypal เป็นแท็บเปิดการใช้งานจ่ายเงินด้วย Paypal 
+
+Paypal คือ ระบบจ่ายเงินรับเงินอิเล็กทรอนิกส์อย่างหนึ่งที่ได้รับความนิยมทั่วโลก ถ้าเราต้องการจะรับการจ่ายเงินด้วย Paypal นั้นเราต้องไปเปิดบัญชีที่เว็บ www.paypal.com ก่อน ผมแนะนำให้หาข้อมูลอ่านเพิ่มเติมในอินเตอร์เน็ต
+
+![](/assets/2017-02-02_10-57-52.jpg)
+
+ผมจะไม่อธิบายรายละเอียดการตั้งค่าในหน้านี้ เพราะดูมันจะ Advance เกินกว่าหนังสือเล่มนี้ หากใครสนใจ แนะนำว่าหาอ่านเพิ่มเติมในอินเตอร์เน็ตดีกว่า
+
+
+
+
+
+
 
 
 
