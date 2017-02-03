@@ -15,6 +15,7 @@
   * [แท็บ Checkout](woocommerce/settings/checkout.md)
   * [แท็บ Account](woocommerce/settings/account.md)
   * [แท็บ Emails](woocommerce/settings/emails.md)
+  * [แท็บ API](woocommerce/settings/api-tab.md)
 
 ## Products
 
