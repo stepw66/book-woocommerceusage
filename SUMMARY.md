@@ -18,6 +18,7 @@
   * [แท็บ API](woocommerce/settings/api-tab.md)
 * [Orders](woocommerce/orders.md)
 * [Coupons](woocommerce/coupons.md)
+  * [การสร้างคูปอง](woocommerce/coupons/create-coupon.md)
 
 ## Products
 
