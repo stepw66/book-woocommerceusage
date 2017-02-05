@@ -19,6 +19,7 @@
 * [Orders](woocommerce/orders.md)
 * [Coupons](woocommerce/coupons.md)
   * [การสร้างคูปอง](woocommerce/coupons/create-coupon.md)
+  * [การแก้ไขคูปอง](woocommerce/coupons/coupon-update.md)
 
 ## Products
 
