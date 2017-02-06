@@ -32,6 +32,10 @@
 ## Products
 
 * [Products](products/products.md)
+  * Add products
+  * Categories
+  * Tags
+  * Attributes
 
 ## Frontend
 
