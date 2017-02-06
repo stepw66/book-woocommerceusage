@@ -20,6 +20,8 @@
 * [Coupons](woocommerce/coupons.md)
   * [การสร้างคูปอง](woocommerce/coupons/create-coupon.md)
   * [การแก้ไขคูปอง](woocommerce/coupons/coupon-update.md)
+  * [การลบคูปอง](woocommerce/coupons/delete-coupon.md)
+  * [Restore Coupon](woocommerce/coupons/restore-coupon.md)
 
 ## Products
 
