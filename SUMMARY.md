@@ -22,6 +22,10 @@
   * [การแก้ไขคูปอง](woocommerce/coupons/coupon-update.md)
   * [การลบคูปอง](woocommerce/coupons/delete-coupon.md)
   * [ยกเลิกการลบคูปอง](woocommerce/coupons/restore-coupon.md)
+* [Reports](woocommerce/reports.md)
+  * [Orders](woocommerce/reports/orders.md)
+  * Customer
+  * [Stock](woocommerce/reports/stock.md)
 
 ## Products
 
