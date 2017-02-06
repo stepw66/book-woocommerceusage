@@ -32,7 +32,7 @@
 ## Products
 
 * [Products](products/products.md)
-  * Add products
+  * [Add products](products/products/add-products.md)
   * Categories
   * Tags
   * Attributes
