@@ -24,7 +24,7 @@
   * [ยกเลิกการลบคูปอง](woocommerce/coupons/restore-coupon.md)
 * [Reports](woocommerce/reports.md)
   * [Orders](woocommerce/reports/orders.md)
-  * Customer
+  * [Customer](woocommerce/reports/customer.md)
   * [Stock](woocommerce/reports/stock.md)
 
 ## Products
