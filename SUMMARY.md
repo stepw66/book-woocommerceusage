@@ -26,6 +26,8 @@
   * [Orders](woocommerce/reports/orders.md)
   * [Customer](woocommerce/reports/customer.md)
   * [Stock](woocommerce/reports/stock.md)
+* [System Status](woocommerce/system-status.md)
+* [Extensions](woocommerce/extensions.md)
 
 ## Products
 
