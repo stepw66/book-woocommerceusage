@@ -33,6 +33,7 @@
 
 * [Products](products/products.md)
   * [Add products](products/products/add-products.md)
+  * [Edit Product](products/products/edit-product.md)
   * [Categories](products/products/categories.md)
   * [Tags](products/products/tags.md)
   * [Attributes](products/products/attributes.md)
