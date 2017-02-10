@@ -35,7 +35,7 @@
   * [Add products](products/products/add-products.md)
   * [Categories](products/products/categories.md)
   * [Tags](products/products/tags.md)
-  * Attributes
+  * [Attributes](products/products/attributes.md)
 
 ## Frontend
 
