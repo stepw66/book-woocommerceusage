@@ -17,7 +17,7 @@
   * [แท็บ Emails](woocommerce/settings/emails.md)
   * [แท็บ API](woocommerce/settings/api-tab.md)
 * [Orders](woocommerce/orders.md)
-* [Coupons](woocommerce/coupons.md)
+* [Coupon](woocommerce/coupons.md)
   * [การสร้างคูปอง](woocommerce/coupons/create-coupon.md)
   * [การแก้ไขคูปอง](woocommerce/coupons/coupon-update.md)
   * [การลบคูปอง](woocommerce/coupons/delete-coupon.md)
@@ -33,7 +33,7 @@
 
 * [Products](products/products.md)
   * [Add products](products/products/add-products.md)
-  * Categories
+  * [Categories](products/products/categories.md)
   * Tags
   * Attributes
 
