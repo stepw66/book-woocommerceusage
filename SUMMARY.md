@@ -17,7 +17,7 @@
   * [แท็บ Emails](woocommerce/settings/emails.md)
   * [แท็บ API](woocommerce/settings/api-tab.md)
 * [Orders](woocommerce/orders.md)
-  * view-order
+  * [ดูรายละเอียดออเดอร์](woocommerce/orders/view-order.md)
   * edit-order
   * change-status-order
   * communicate-with-customer
