@@ -17,6 +17,16 @@
   * [แท็บ Emails](woocommerce/settings/emails.md)
   * [แท็บ API](woocommerce/settings/api-tab.md)
 * [Orders](woocommerce/orders.md)
+  * view-order
+  * edit-order
+  * change-status-order
+  * communicate-with-customer
+  * admin-create-order
+  * delete-order
+  * change-billing-detail
+  * change-shipping-detail
+  * refund-order
+  * resend-emails
 * [Coupon](woocommerce/coupons.md)
   * [การสร้างคูปอง](woocommerce/coupons/create-coupon.md)
   * [การแก้ไขคูปอง](woocommerce/coupons/coupon-update.md)
