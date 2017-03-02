@@ -18,7 +18,7 @@
   * [แท็บ API](woocommerce/settings/api-tab.md)
 * [Orders](woocommerce/orders.md)
   * [ดูรายละเอียดออเดอร์](woocommerce/orders/view-order.md)
-  * edit-order
+  * [แก้ไขออเดอร์](woocommerce/orders/edit-order.md)
   * change-status-order
   * communicate-with-customer
   * admin-create-order
