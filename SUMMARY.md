@@ -19,7 +19,7 @@
 * [Orders](woocommerce/orders.md)
   * [ดูรายละเอียดออเดอร์](woocommerce/orders/view-order.md)
   * [แก้ไขออเดอร์](woocommerce/orders/edit-order.md)
-  * change-status-order
+  * [เปลี่ยนสถานะออเดอร์](woocommerce/orders/change-status-order.md)
   * communicate-with-customer
   * admin-create-order
   * delete-order
