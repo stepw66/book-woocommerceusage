@@ -18,11 +18,11 @@
   * [แท็บ API](woocommerce/settings/api-tab.md)
 * [Orders](woocommerce/orders.md)
   * [ดูรายละเอียดออเดอร์](woocommerce/orders/view-order.md)
-  * [แก้ไขออเดอร์](woocommerce/orders/edit-order.md)
+  * [แก้ไขออเดอร์ \(ยังไม่ได้เขียน\)](woocommerce/orders/edit-order.md)
+  * [ลบออเดอร์](woocommerce/orders/delete-order.md)
   * [เปลี่ยนสถานะออเดอร์](woocommerce/orders/change-status-order.md)
   * [การส่งหมายเลขพัสดุให้ลูกค้า](woocommerce/orders/communicate-with-customer.md)
   * admin-create-order
-  * delete-order
   * change-billing-detail
   * change-shipping-detail
   * refund-order
