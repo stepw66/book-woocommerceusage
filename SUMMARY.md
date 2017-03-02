@@ -20,7 +20,7 @@
   * [ดูรายละเอียดออเดอร์](woocommerce/orders/view-order.md)
   * [แก้ไขออเดอร์](woocommerce/orders/edit-order.md)
   * [เปลี่ยนสถานะออเดอร์](woocommerce/orders/change-status-order.md)
-  * communicate-with-customer
+  * [การส่งหมายเลขพัสดุให้ลูกค้า](woocommerce/orders/communicate-with-customer.md)
   * admin-create-order
   * delete-order
   * change-billing-detail
