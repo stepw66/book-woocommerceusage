@@ -22,9 +22,9 @@
   * [ลบออเดอร์](woocommerce/orders/delete-order.md)
   * [เปลี่ยนสถานะออเดอร์](woocommerce/orders/change-status-order.md)
   * [การส่งหมายเลขพัสดุให้ลูกค้า](woocommerce/orders/communicate-with-customer.md)
-  * admin-create-order
   * [การทำ refund ออเดอร์](woocommerce/orders/refund-order.md)
   * [ส่งอีเมล์ให้ลูกค้า \(อีกครั้ง\)](woocommerce/orders/resend-emails.md)
+  * [admin-create-order](woocommerce/orders/admin-create-order.md)
 * [Coupon](woocommerce/coupons.md)
   * [การสร้างคูปอง](woocommerce/coupons/create-coupon.md)
   * [การแก้ไขคูปอง](woocommerce/coupons/coupon-update.md)
