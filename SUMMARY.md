@@ -25,7 +25,7 @@
   * admin-create-order
   * change-billing-detail
   * change-shipping-detail
-  * refund-order
+  * [การทำ refund ออเดอร์](woocommerce/orders/refund-order.md)
   * resend-emails
 * [Coupon](woocommerce/coupons.md)
   * [การสร้างคูปอง](woocommerce/coupons/create-coupon.md)
