@@ -23,8 +23,6 @@
   * [เปลี่ยนสถานะออเดอร์](woocommerce/orders/change-status-order.md)
   * [การส่งหมายเลขพัสดุให้ลูกค้า](woocommerce/orders/communicate-with-customer.md)
   * admin-create-order
-  * change-billing-detail
-  * change-shipping-detail
   * [การทำ refund ออเดอร์](woocommerce/orders/refund-order.md)
   * [ส่งอีเมล์ให้ลูกค้า \(อีกครั้ง\)](woocommerce/orders/resend-emails.md)
 * [Coupon](woocommerce/coupons.md)
