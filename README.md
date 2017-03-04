@@ -2,7 +2,9 @@
 
 \[\*\*\* สำหรับคนใช้ WooCommerce นี่คือปลักอินจ่ายเงินผ่านบัตรเครดิต ท่านสามารถซื้อไปติดตั้งเพิ่มเติมได้ มีทุกธนาคาร เขียนโดยผมคนเขียนหนังสือเล่มนี้เอง \]
 
-[![](/assets/woocommerce_thai_payment.jpg)](http://boostpress.com/product-category/wordpress-plugin/payment-gateway/\)            [![]\(/assets/woocommerce_sms_payment.jpg\)]\(http://boostpress.com/product-category/wordpress-plugin/sms/)      [![](/assets/woocommerce_sms_payment.jpg)](http://boostpress.com/product-category/wordpress-plugin/sms/)
+[![](/assets/woocommerce_thai_payment.jpg)](http://boostpress.com/product-category/wordpress-plugin/payment-gateway/\)            [![]\(/assets/woocommerce_sms_payment.jpg\)]\(http://boostpress.com/product-category/wordpress-plugin/sms/\)      [![]\(/assets/woocommerce_sms_payment.jpg\)]\(http://boostpress.com/product-category/wordpress-plugin/sms/)
+
+[![](/assets/woocommerce_sms_payment.jpg)](http://boostpress.com/product-category/wordpress-plugin/sms/)
 
 ณ นาทีนี้เมื่อพูดถึงระบบ อี-คอมเมิร์ส ที่ชื่อว่า WooCommerce นั้น คนอยู่ในแวดวงเว็บไซต์คงไม่มีใครไม่รู้จัก เพราะเนื่องจากมันเป็นเครื่องมือที่ได้รับการยอมรับจากคนใช้งานทั่วโลกว่า ใช้งานง่าย และฟังก์ชั่นการทำงานครบถ้วน ไม่ว่าจะเป็นการขายสินค้าลักษณะไหน WooCommerce ก็ครอบคลุมทั้งหมด
 
